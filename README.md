@@ -70,6 +70,6 @@ Estou sempre aberto ao diálogo, troca de ideias e novas conexões. Sinta-se à 
 <div align="center">
   <a href="https://github.com/jean-programador">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jean-programador&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red"/>
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=4&theme=shadow_red" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jean-programador&layout=donut&langs_count=4&theme=shadow_red" />
   </a>
 </div>
