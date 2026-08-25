@@ -1,86 +1,78 @@
-# Hi, I'M Jean Carlos!! ✌️
-  <p>✨ Sou desenvolvedor Web Full Stack na <a href="https://www.pilarsistemas.com.br/">Pilar Sistemas</a>.</p>
+# Olá, eu sou o Jean Carlos! ✌️
 
-## 🌍 About Me:
-  <p>🚀 Sou apaixonado por tecnologia, especialmente por programação, estou em no inicio da minha jornada como desenvolvedor, e buscando me melhorar um pouquinho a cada dia, esse área me surpreende cada vez mais. Pode se   sentir a vontade para analisar meus códigos e me enviar sugestões de melhorias, críticas ou até elogios(acho díficil hahaha). Gosto muito de ler livros sobre programação, então se tiver algum para me indicar eu ficaria   muito feliz 😀. Obrigado por ter vindo atá meu perfil, que Deus te abençoe em sua jornada!</p>  
+👨‍💻 Desenvolvedor de Software na **Intelidata** | Especialista em .NET & Full-Stack
 
-  <p> ♦️ ACEITO FEEDBACKS ♦️ </p>
+## 🌍 Sobre mim
 
- ##  ✉️ Contact Me At:
-  - Estou sempre aberto ao diálogo, troca de ideias, dúvidas, e novas conexões! Sinta-se à vontade para entrar em contato comigo pelo e-mail: jncorreia44@gmail.com
-  - Ou então, pode saber mais sobre mim, e se conectar comigo através do meu <a href="https://www.linkedin.com/in/jean_programador/" target="_blank"> Linkedin </a>   
+Sou um profissional especializado em desenvolvimento web com sólida experiência na criação e manutenção de aplicações escaláveis e de alta performance. Tenho vivência diária com metodologias ágeis (Scrum) e atuo na construção de soluções robustas integrando diferentes tecnologias no back-end e front-end.
 
-## Technologies
-### FrontEnd
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/> 
-  </a> 
-   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/> 
-  </a> 
-   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a>
-  
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="raect" width="50" height="50"/> 
-  </a>
-  
-   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" width="50" height="50"/> 
-  </a>
-  
-   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" alt="jest" width="50" height="50"/> 
-  </a>
-  
-  ### BackEnd
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="csharp" width="50" height="50"/> 
-  </a>
-  
-   <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> 
-  <img src="https://miro.medium.com/max/591/1*4HIU0YdDkj0dmGySVC5D_g.png" alt="ef" width="60" height="50"/> 
-  </a>
-  
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="100" height="50"/> 
-  </a>
-  
-  ### Softwares
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  alt="vscode" width="50" height="50"/> 
-  </a>
-  
-  <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/104799740/206087182-c76878eb-ca2e-4d89-bcbd-e9d15ae6e07d.png" alt="visualstudio" width="80" height="50"/> 
-  </a>
-  
-  <a href="https://slack.com/intl/pt-br/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/104799740/206087467-d67c2db9-ca10-498c-81a2-f4bb80d97cf9.png" alt="slack" width="50" height="50"/> 
-  </a>
-  
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" alt="docker" width="50" height="50"/> 
-  </a>
-  
-  ### Outras
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/104799740/206089408-f1d3656f-2969-40f9-8ed3-bc9c1f2e356e.png" alt="linux" width="50" height="50"/> 
-  </a>
+Meu grande objetivo atual é me tornar um desenvolvedor **altamente especializado no ecossistema .NET (C#)**, consolidando minhas habilidades de arquitetura no back-end para entregar soluções inovadoras e de excelência operacional. 
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="50" height="50"/> 
-  </a> 
- 
-## My status
-   <a href="https://github.com/JeanCarlos-SC">
-   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos-SC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+**⚡ Curiosidades e Interesses:**
+- ☕ Além de focar no ecossistema .NET, também possuo experiência e atuo no desenvolvimento com **Java** (utilizando a IDE **IntelliJ**).
+- 📚 Sou apaixonado por leitura técnica e sempre busco me melhorar um pouco a cada dia (aceito indicações de livros!).
+- 🎬 Nas horas vagas, adoro maratonar filmes e séries que envolvem o universo da programação.
+- 🎮 Sou gamer no PC, dividindo o tempo livre entre as partidas de **Call of Duty: Warzone** e a resolução de enigmas em **Assassin's Creed Unity** (começando sempre pelas pistas de *Saturnus*, é claro!).
 
-   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos-SC&layout=compact&theme=dracula" alt="JeanCarlos" />
+## 🎓 Formação e Educação
+
+- 🎓 **Bacharelado em Engenharia de Software** - Uniamérica / Descomplica (2024 - 2029)
+- 💻 **Desenvolvimento Web Full-Stack** (Mais de 1.500 horas) - Trybe (2022 - 2023)
+- 🌐 **Tecnólogo em Redes de Computadores** - IFSC (2017 - 2019)
+
+## ✉️ Contato
+
+Estou sempre aberto ao diálogo, troca de ideias e novas conexões. Sinta-se à vontade para me chamar:
+
+<div>
+  <a href="mailto:jncorreia44@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/jean-programador/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
+## 💻 Tecnologias e Ferramentas
+
+### Back-End & Banco de Dados
+<div style="display: inline_block">
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div><br/>
+
+### Front-End
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
+
+### Softwares, Qualidade e Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Scrum" src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</div>
+
+<br/>
+
+## 📊 Meu Status
+
+<div align="center">
+  <a href="https://github.com/JeanCarlos-SC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos-SC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos-SC&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  </a>
+</div>
