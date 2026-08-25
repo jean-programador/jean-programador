@@ -10,6 +10,7 @@ Atualmente, meu grande foco é o aprofundamento em **Arquitetura de Software** e
 
 **⚡ Curiosidades e Interesses:**
 - ☕ No meu dia a dia de desenvolvimento, minha ferramenta de escolha é o **IntelliJ IDEA**, focando sempre em boas práticas e código limpo.
+- 🤖 Integro fluxos de desenvolvimento orientados por Inteligência Artificial, utilizando **Claude Code** para acelerar refatorações, otimizar processos e ganhar agilidade.
 - 📚 Sou apaixonado por leitura técnica e sempre busco me melhorar um pouco a cada dia (aceito indicações de livros!).
 - 🎬 Nas horas vagas, adoro maratonar filmes e séries que envolvem o universo da programação.
 - 🎮 Sou gamer no PC, dividindo o tempo livre entre as partidas de **Call of Duty: Warzone** e a resolução de enigmas em **Assassin's Creed Unity**.
@@ -38,6 +39,7 @@ Estou sempre aberto ao diálogo, troca de ideias e novas conexões. Sinta-se à 
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
